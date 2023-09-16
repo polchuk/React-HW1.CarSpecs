@@ -1,0 +1,9 @@
+.table__cars {
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.table__cars td {
+    border: 1px solid black;
+}
